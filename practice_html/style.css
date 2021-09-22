@@ -1,0 +1,71 @@
+h1 {
+    font-family: "Georgia";
+    text-align: center;
+}
+
+h2 {
+    font-family: "Georgia";
+    text-align: left;
+    color: #051454;
+}
+
+header {
+    text-align: right;
+    margin-right: 30px;
+
+}
+
+.title {
+    color: rgb(63, 61, 61);
+    size: 22px;
+}
+
+.body_p {
+    margin: 10px 10px;
+    text-align: left;
+    margin-left: 50px;
+    color: #626268;
+}
+
+
+.main_title {
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: #3F4048;
+}
+
+.main_body {
+    padding: 10px;
+    margin: 5px 5px 5px;
+    text-align: center;
+}
+
+
+
+body {
+    background-color: #eee;
+}
+
+.card {
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px;
+    width: 1000px;
+    height: 1600px; 
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.32), 0 3px 12px 0 rgba(0, 0, 0, 0.24);
+}
+
+h3 {
+    color: #3F4048;
+}
+
+rect {
+    stroke-width: .5;
+}
+
+.foot_note {
+    margin: 10px 100px;
+    text-align: left;
+    color: #626268;
+}
